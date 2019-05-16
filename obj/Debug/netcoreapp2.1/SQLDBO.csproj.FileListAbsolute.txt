@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\bin\Debug\netcoreapp2.1\SQLDBO.deps.json
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\bin\Debug\netcoreapp2.1\SQLDBO.runtimeconfig.json
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\bin\Debug\netcoreapp2.1\SQLDBO.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\bin\Debug\netcoreapp2.1\SQLDBO.dll
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\obj\Debug\netcoreapp2.1\SQLDBO.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\obj\Debug\netcoreapp2.1\SQLDBO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\obj\Debug\netcoreapp2.1\SQLDBO.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\obj\Debug\netcoreapp2.1\SQLDBO.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\bin\Debug\netcoreapp2.1\SQLDBO.pdb
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\obj\Debug\netcoreapp2.1\SQLDBO.dll
+C:\Users\Admin\source\repos\SQLDBO\SQLDBO\obj\Debug\netcoreapp2.1\SQLDBO.pdb
